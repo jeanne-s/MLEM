@@ -1,0 +1,1 @@
+{"dataset": "svo_long_word_level_simplif", "_model": "bert-base-uncased", "seed": 0, "step": null, "add_special_tokens": true, "zscore": false, "take_activation_from": "last-token", "distance_metric": "euclidean", "layer": 9, "min_max": true, "conditional": false}
